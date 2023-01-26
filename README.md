@@ -1,4 +1,4 @@
-# Syrian_displacement_simulation-
+# Syrian_displacement_simulation
 This is a repository to simulate Syrian refugee flows. This repository can be complemented by other repositories; Syrian_destination_calibration, Syrian_flee_calibration, and Visualising_Syrian_flow, for a data-driven simulation of Syrian refugee flows.
 ***
 # Parameters
